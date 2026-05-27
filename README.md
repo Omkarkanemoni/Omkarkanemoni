@@ -1,61 +1,88 @@
 <h1 align="center">Hi 👋, I'm Omkar Kanemoni</h1>
-<h3 align="center">A passionate Java Full Stack Developer from India</h3>
+<h3 align="center">Software Development Engineer (SDE) & Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main%20Stack-Java%20Full%20Stack-blue?style=for-the-badge&logo=java" alt="Main Stack" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Web%20Architecture-orange?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Role-SDE%20%7C%20Software%20Engineer-blue?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Main%20Stack-Java%20Full%20Stack-orange?style=for-the-badge&logo=java" alt="Main Stack" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### 💫 About Me:
-- 🔭 **Currently working on:** Advanced Java & Enterprise Application projects.
-- 🌱 **Actively learning:** Modern Java Full-Stack development paradigms, focusing on scalable backend architectures.
-- 👯 **Looking to collaborate on:** Open-source Java, Spring Boot, and Full-Stack web applications.
-- 👨‍💻 **Portfolio:** All of my projects are beautifully showcased at [My Portfolio](https://omkarkanemoni.github.io/My_Portfolio/).
-- ⚡ **Fun fact:** I actually enjoy debugging code just as much as writing it—finding that missing semicolon or broken logic is incredibly satisfying! 😄
+- 🔭 **Current Focus:** Building scalable web architectures, writing clean code, and solving complex algorithmic challenges.
+- 🌱 **Core Competencies:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), and Enterprise Application Development.
+- 👯 **Looking to collaborate on:** Open-source projects involving Java, Spring Boot, Microservices, and React.js.
+- 👨‍💻 **Portfolio:** Check out my projects beautifully showcased at [My Portfolio](https://omkarkanemoni.github.io/My_Portfolio/).
+- ⚡ **SDE Mindset:** "First, solve the problem. Then, write the code." 🚀
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Technical Skills & Toolkit:
 
+#### 🚀 Languages & Frontend
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br />Java
+      <br /><b>Java</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br />Python
+      <br /><b>Python</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <br />React.js
-    </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br />JavaScript
+      <br /><b>JavaScript</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <br /><b>React.js</b>
     </td>
   </tr>
+</table>
+
+#### ⚙️ Backend, Databases & Core CS
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-      <br />HTML5
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
+      <br /><b>Spring Boot</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-      <br />CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt="SQL" />
-      <br />SQL
+      <br /><b>SQL</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/data-configuration.png" width="40" height="40" alt="DSA" />
+      <br /><b>DSA</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/hierarchical-structure.png" width="40" height="40" alt="OOPs" />
+      <br /><b>OOPs / DBMS</b>
+    </td>
+  </tr>
+</table>
+
+#### 🛠️ Dev Tools & DevOps Basics
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br /><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+      <br /><b>GitHub</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/api.png" width="40" height="40" alt="REST APIs" />
+      <br /><b>REST APIs</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40" alt="Unix/Linux" />
+      <br /><b>Unix / Linux</b>
     </td>
   </tr>
 </table>
@@ -85,11 +112,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
----
-
-### 📫 Let's Connect:
-<p>
-  <a href="https://linkedin.com/in/kanemoniomkar"><img align="left" alt="Omkar's LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
-  <a href="mailto:omkarkanemon1029@gmail.com"><img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
-</p>
-<br/>
